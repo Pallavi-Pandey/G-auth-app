@@ -1,4 +1,4 @@
-# Google Authentication React App
+# React Google Auth
 
 A React-based application demonstrating how to integrate Google OAuth for secure user authentication.
 
